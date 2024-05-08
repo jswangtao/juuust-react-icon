@@ -5,6 +5,7 @@
   "main": "dist/juuust-react-icon.cjs.js",
   "module": "dist/juuust-react-icon.esm.js",
   "typings": "dist/icons.d.ts",
+  "private":false,
   "files": [
     "dist"
   ],
